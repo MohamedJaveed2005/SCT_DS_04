@@ -6,4 +6,4 @@
 
 *Dataset - https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
     
-*Chart Type -Dashboard ( Bar Chart, Line Chart, Donut Chart, Map Visuals, Card Visuals)
+*Chart Type -Dashboard ( Bar Chart, Line Chart, Donut Chart, Card Visuals, DAX, US Accident Dataset, Geospatial Visuals)
