@@ -1,2 +1,5 @@
-# SCT_DS_04
-Created a Dashboard to Analyse Accident Factors on USA Report Dataset
+#SKILLCRAFT TECHNOLOGIES INTERNSHIP
+
+📊 TASK 04 - Data Cleaning and EDA
+
+*Tools Used - PowerBI *Dataset - https://www.kaggle.com/c/titanic/data *Chart Type -Dashboard ( Bar Chart, Pie Chart, Donut Chart, Card Visuals)
